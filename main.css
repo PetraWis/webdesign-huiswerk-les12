@@ -1,0 +1,90 @@
+header{
+    background-color: grey; 
+    width: 100%;
+    height: 40px;
+}
+footer{
+    background-color: grey;
+    width:100%;
+    height: 40px;
+}
+#cel01{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+}
+#cel02{
+    width: 200px;
+    height: 200px;
+    background-color: yellow;
+}
+#cel03{
+    width: 200px;
+    height: 200 px;
+    background-color: pink;
+}
+#cel04{
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+}
+#cel05{
+    width: 200px;
+    height: 200px;
+    background-color: purple;
+}
+#cel06{
+    width: 200px;
+    height: 200px;
+    background-color: orange;
+}
+#cel07{
+    width: 200px;
+    height: 200px;
+    background-color: green;
+}
+#cel08{
+    width: 200px;
+    height: 200px;
+    background-color: salmon;
+}
+#cel09{
+    width: 200px;
+    height: 200px;
+    background-color: yellowgreen;
+}
+#cel10{
+    width: 200px;
+    height: 200px;
+    background-color: palevioletred;
+}
+#cel11{
+    width: 200px;
+    height: 200px;
+    background-color: aqua;
+}
+#cel12{
+    width: 200px;
+    height: 200px;
+    background-color: lavender;
+}
+#cel13{
+    width: 200px;
+    height: 200px;
+    background-color: orangered;
+}
+#cel14{
+    width: 200px;
+    height: 200px;
+    background-color: crimson;
+}
+#cel15{
+    width: 200px;
+    height: 200px;
+    background-color: forestgreen;
+}
+#cel16{
+    width: 200px;
+    height: 200px;
+    background-color: burlywood;
+}
